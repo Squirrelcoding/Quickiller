@@ -1,6 +1,14 @@
 # Quickiller
 There are always programs such as chrome that keep eating up your resources even when closed! The only way to prevent this is to kill all the chrome process manually which can be tedious at times. But quickiller is an easy-to-use CLI tool that automatically kills all the processes for you in a short amount of time!
 
+## Release 1.1
+- Added universal config file
+- Fixed compiler warnings
+
+### Planned features
+- Profiles for different kill lists
+- GUI, but not sure yet.
+- Easier setup process
 ## Features
 - Kill all processes in customizable list (duh)
 - Add process to kill
